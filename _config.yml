@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "witch49"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발자 블로그. 잡다한 이야기 이것저것."#"I am an **amazing** person."
+  bio              : "개발자 블로그.      잡다한 이야기 이것저것."#"I am an **amazing** person."
   location         : "the Republic of Korea"
   email            :
   links:
