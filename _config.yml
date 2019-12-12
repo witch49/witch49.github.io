@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "witch49"
 description              : "witch49의 기술블로그"
 url                      : "https://witch49.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/_posts"  # the subpath of your site, e.g. "/blog"
 repository               : "witch49/witch49.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
