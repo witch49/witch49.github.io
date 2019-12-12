@@ -23,7 +23,7 @@ name                     : "witch49"
 description              : "witch49의 기술블로그"
 url                      : "https://witch49.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "witch49/witch49.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "witch49"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발자 블로그.\n잡다한 이야기 이것저것."#"I am an **amazing** person."
+  bio              : "개발자 블로그.잡다한 이야기 이것저것."  #"I am an **amazing** person."
   location         : "the Republic of Korea"
   email            :
   links:
